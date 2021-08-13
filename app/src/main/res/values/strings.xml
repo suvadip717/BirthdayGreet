@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Birthday Greet</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="anuj_kumer">Anuj Kumer</string>
+    <string name="click_me">Click Me</string>
+    <string name="happy_birthday">Happy Birthday</string>
+    <string name="todo">TODO</string>
+</resources>
